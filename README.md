@@ -16,7 +16,7 @@ console.log("consoleTEST確認");
 
 ⸻
 
-2. 変数の宣言と出力
+### 2. 変数の宣言と出力
 let number = 8888;
 console.log(number);
 
